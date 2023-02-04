@@ -7,3 +7,11 @@ var serie = "https://imgs.search.brave.com/vLAA8GLnxqC43FJ3icQ7WK2aaR328oCh6pKzm
 document.write("<img src=" + comedyMovie + ">");
 document.write("<img src=" + cartoon + ">");
 document.write("<img src=" + serie + ">");
+
+document.write("<img src=" + filmsList[0] + ">");
+document.write("<img src=" + filmsList[1] + ">");
+document.write("<img src=" + filmsList[2] + ">");
+
+document.write("<img src=" + filmsList[0] + ">");
+document.write("<img src=" + filmsList[1] + ">");
+document.write("<img src=" + filmsList[2] + ">");
