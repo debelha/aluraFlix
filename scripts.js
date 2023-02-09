@@ -9,3 +9,6 @@ document.write("<img src=" + filmsList[0] + ">");
 document.write("<img src=" + filmsList[1] + ">");
 document.write("<img src=" + filmsList[2] + ">");
 
+document.write("<img src=" + filmsList[0] + ">");
+document.write("<img src=" + filmsList[1] + ">");
+document.write("<img src=" + filmsList[2] + ">");
