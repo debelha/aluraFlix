@@ -8,11 +8,3 @@ filmsList[2] = "https://imgs.search.brave.com/vLAA8GLnxqC43FJ3icQ7WK2aaR328oCh6p
 document.write("<img src=" + filmsList[0] + ">");
 document.write("<img src=" + filmsList[1] + ">");
 document.write("<img src=" + filmsList[2] + ">");
-
-document.write("<img src=" + filmsList[0] + ">");
-document.write("<img src=" + filmsList[1] + ">");
-document.write("<img src=" + filmsList[2] + ">");
-
-document.write("<img src=" + filmsList[0] + ">");
-document.write("<img src=" + filmsList[1] + ">");
-document.write("<img src=" + filmsList[2] + ">");
